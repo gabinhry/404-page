@@ -6,6 +6,13 @@ ogdescription: 404 page Google indexation
 ogimage: https://fmp-module-images.s3.eu-west-3.amazonaws.com/404-page.jpg
 ---
 
-The goal of this module is to provide you a way to correctly implement a 404 page. A normal React.js page is sent with the status 200, which states that all is good. Our objective here is to **provide a status 404 whenever the user arrives on the 404 page**.
+Hi, the goal of this module is to provide you a way to correctly implement a 404 page. If you want to implement this (and you should), you're at the right place.
+
+A normal React.js page is sent with the status 200, which states that all is good. Our objective here is to **redirect user to 404 if necessary**.
 
 Thank to that, there won't be any confusion when Google's bot will try to index your website.
+
+You'll find in the module: 
+- Source code
+- Documentation and Quickstart
+- Complete integration on a React front
