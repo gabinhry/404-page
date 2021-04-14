@@ -22,7 +22,7 @@
 <br />
 
 <div align="center"><strong>Implement a 404 page</strong></div>
-<div align="center">Send emails to your customers with MailJet</div>
+<div align="center">Redirect users to a 404 page when needed</div>
 
 <br />
 
